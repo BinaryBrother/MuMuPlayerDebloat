@@ -41,7 +41,7 @@ So Open KernelSU.
 
 7.) Click Root Explorer
 
-8.) Enabled Superuser, but this isn't enough to delete files in the system partition just yet.
+8.) Enable Superuser, but this isn't enough to delete files in the system partition just yet.
 
 9.) Change "Groups" to root.
 
