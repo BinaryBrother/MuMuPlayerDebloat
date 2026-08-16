@@ -1,4 +1,4 @@
-# MuMuPlayer 6 Android 15 Debloat
+# MuMuPlayer 6 Android 15 Debloat 2026
 I've made a YouTube video for anyone who wants to watch it https://www.youtube.com/watch?v=1wchUkN2Jjc 
 But I'll list the steps here, too.
 
